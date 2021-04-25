@@ -5,4 +5,4 @@ No.11 给你 n 个非负整数 a1，a2，...，an，每个数代表坐标中的�
 关键在于移动较小的那个指针是安全的
 反证：如果移动较大的指针，结果不会变大
 
-https://github.com/albertc-nju/LeetCodeNote/blob/main/snipaste_20210425_153720.png
+![image](https://github.com/albertc-nju/LeetCodeNote/blob/main/snipaste_20210425_153720.png)
